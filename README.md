@@ -1,4 +1,4 @@
-# Hi, I'm Divit Wadhwa 👋
+# Hi, I'm Divit Wadhwa 
 
 AI/ML and full-stack developer focused on building practical, data-driven applications—from intelligent document workflows to predictive analytics dashboards.
 
@@ -53,5 +53,4 @@ Content-based movie recommender that uses genre similarity and cosine similarity
 I’m open to learning opportunities, collaborations, and entry-level software, AI/ML, or data roles.
 
 - GitHub: [@divit-w](https://github.com/divit-w)
-- LinkedIn: _add your LinkedIn URL here_
-- Portfolio: _add your portfolio URL here_
+- LinkedIn: www.linkedin.com/in/divit-wadhwa
