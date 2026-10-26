@@ -1,8 +1,10 @@
 <div align="center">
 
-# Divit Wadhwa
+<h1>Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px" alt="Developer"> I'm Divit Wadhwa</h1>
 
-### AI/ML & Full-Stack Developer
+<img src="https://raw.githubusercontent.com/divit-w/divit-w/main/banner.gif" alt="Banner" width="100%" />
+
+<h3>AI/ML & Full-Stack Developer</h3>
 
 Building practical, data-driven applications, from intelligent document workflows to predictive analytics dashboards.
 
